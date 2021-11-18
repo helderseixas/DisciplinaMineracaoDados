@@ -1,0 +1,25 @@
+*Censo 2010 (Atlas)
+Original: AtlasCenso/Atlas 2013_municipal, estadual e Brasil.xlsx
+Ajustado para importação: AtlasCenso/censo.csv
+
+* Estimativa da população
+Original: estimativa_dou_2020.ods
+Ajustado para importação: estimativa_populacao.csv
+https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&t=downloads
+
+* Registros administrativos
+Arquivo: registros_administrativos.csv
+https://www.atlasbrasil.org.br/acervo/biblioteca
+
+* Covid-19 
+Arquivo: todos na pasta covid
+Fonte: Ministério da Saúde https://covid.saude.gov.br/
+
+* Leitos, médicos, enfermeiros, UTI e respiradores
+http://tabnet.datasus.gov.br/cgi/deftohtm.exe?cnes/cnv/leiintbr.def
+
+* ESF e agentes comunitários de saúde
+https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml
+
+* Pesquisa Nacional de Saúde 2019
+https://www.ibge.gov.br/estatisticas/sociais/saude/9160-pesquisa-nacional-de-saude.html?edicao=29270&t=sobre
